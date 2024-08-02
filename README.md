@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+
+I am a C++ and Qt developer with passion to creating efficient and user-friendly applications. Always try to learn new things and improve myself.
+Currently i am working on improving my sprogramming skills and deeply into C++
 
 <!--
 **trollonos/trollonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
